@@ -8,4 +8,4 @@
 
  // You can add multiple dates with description.
 
-// Person who Peer Reviewed your assignment Brandon
+// Peer Review (Brandon Estrada) - Your code runs clean and functions properly. I am able to input two numbers of my choice and have the sum returned to me as an endpoint.

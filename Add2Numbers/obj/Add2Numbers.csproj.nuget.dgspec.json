@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\littl\\OneDrive\\Documents\\Academy\\CodeStack Level2\\Assignments Level2\\NewAdd2\\Add2Numbers\\Add2Numbers.csproj": {}
+    "/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/NewAdd2/Add2Numbers/Add2Numbers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\littl\\OneDrive\\Documents\\Academy\\CodeStack Level2\\Assignments Level2\\NewAdd2\\Add2Numbers\\Add2Numbers.csproj": {
+    "/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/NewAdd2/Add2Numbers/Add2Numbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\littl\\OneDrive\\Documents\\Academy\\CodeStack Level2\\Assignments Level2\\NewAdd2\\Add2Numbers\\Add2Numbers.csproj",
+        "projectUniqueName": "/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/NewAdd2/Add2Numbers/Add2Numbers.csproj",
         "projectName": "Add2Numbers",
-        "projectPath": "C:\\Users\\littl\\OneDrive\\Documents\\Academy\\CodeStack Level2\\Assignments Level2\\NewAdd2\\Add2Numbers\\Add2Numbers.csproj",
-        "packagesPath": "C:\\Users\\littl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\littl\\OneDrive\\Documents\\Academy\\CodeStack Level2\\Assignments Level2\\NewAdd2\\Add2Numbers\\obj\\",
+        "projectPath": "/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/NewAdd2/Add2Numbers/Add2Numbers.csproj",
+        "packagesPath": "/Users/brandonestrada/.nuget/packages/",
+        "outputPath": "/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/NewAdd2/Add2Numbers/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\littl\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/brandonestrada/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -92,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
